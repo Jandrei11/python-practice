@@ -1,5 +1,5 @@
 # praktis probs q for py is thon
- well uhm madadali lang sha pero lamnyoyon.. AT HINDI TO AI ASSISTED (except don sa isa ata at ito,, itong description ay AI made except for this)
+ well uhm madadali lang sha pero lamnyoyon.. AT HINDI TO AI ASSISTED (except don sa isa ata at ito,, itong description ay AI made except dito sa cnasbi k ngaun)
 ## Repository Structure
 
 ```text

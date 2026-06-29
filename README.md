@@ -12,8 +12,7 @@ codingbat/
 ## Platforms
 
 * CodingBat
-* LeetCode
-* HackerRank *(coming soon)*
+* HackerRank *(nakaka tatlo na yata ak pero di nasave hehehe)*
 * Other practice problems
 
 ## Topics Covered

@@ -1,9 +1,5 @@
-# Python Practice
-
-Welcome to my Python practice repository!
-
-This repository contains my solutions to programming exercises from various coding platforms as I build my problem-solving and programming skills. It serves as a record of my progress and learning journey in preparation for studying Computer Science and beyond.
-
+# praktis probs q for py is thon
+ well uhm madadali lang sha pero lamnyoyon.. AT HINDI TO AI ASSISTED (except don sa isa ata at ito,, itong description ay AI made except for this)
 ## Repository Structure
 
 ```text
@@ -12,13 +8,6 @@ codingbat/
 ├── warmup-2/
 ├── logic-1/
 └── ...
-## Goals
-
-* Strengthen Python fundamentals
-* Develop logical thinking and problem-solving skills
-* Learn clean and readable coding practices
-* Build consistency through regular coding exercises
-* Track my progress over time
 
 ## Platforms
 

@@ -17,5 +17,5 @@ def alarm_clock(day, vacation):
       return "10:00"
     elif weekend_day and not vacation:
         return "10:00"
-    elif weekend_day and vacation:
+    else:
         return "off"

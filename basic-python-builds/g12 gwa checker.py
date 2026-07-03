@@ -4,7 +4,8 @@
 ## For MIDTERM USE ONLY... YET
 
 print("Do you have any OSD cases?")
-print("1 --> Received a warning \n2 --> Uniform/Haircut Violations Only \n3 --> Undergo a Hearing / Suspended")
+print("0 --> No OSD record \n1 --> Received a warning \n2 --> Uniform/Haircut Violations Only")
+print("3 --> Undergo a Hearing / Suspended")
 osd_case = int(input("Input Here:"))
 
 if osd_case == 3:
@@ -41,6 +42,18 @@ if what_term == 1:
         
 if what_term == 2:
     
+    print("First Semester, Midterms")
+    first_mid = [
+    int(input("HOPE III: ")),
+    int(input("Intro to Philo: ")),
+    int(input("MIL: ")),
+    int(input("UCSP: ")),
+    int(input("RDL 2: ")),
+    int(input("FPL: ")),
+    int(input("General Bio 1: ")),
+    int(input("General Physics 1: ")),
+    int(input("Work Immersion: "))
+]
     print("First Semester, Finals")
     first_final = [
         int(input("HOPE III: ")),
@@ -54,11 +67,16 @@ if what_term == 2:
         int(input("Work Immersion: "))
     ]
     
+    midterms_overall_gwa = sum(first_mid) / len(first_mid)
     finals_overall_gwa = sum(first_final) / len(first_final)
     
-    if any(grade < 88 for grade in first_final) or finals_overall_gwa < 92:
+    if any(grade < 88 for grade in first_mid) or midterms_overall_gwa < 92:
+        print("\n\t Not Qualified for Honors")
+        print("\nFinals GWA:", finals_overall_gwa)
+    elif any(grade < 88 for grade in first_final) or finals_overall_gwa < 92:
         print("\n\tNot Qualified for Honors")
         print("\n\tFinals GWA:", finals_overall_gwa)
+ 
 
     else:
         print("\n\tStill Qualified for Honors")

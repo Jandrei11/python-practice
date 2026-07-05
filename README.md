@@ -1,12 +1,19 @@
-# praktis probs q for py is thon
+# practice probs + basic builds q for py is thon
  well uhm madadali lang sha pero lamnyoyon.. AT HINDI TO AI ASSISTED (except don sa isa ata at ito,, itong description ay AI made except dito sa cnasbi k ngaun)
-## Repository Structure
 
+## Repository Structure
 ```text
 codingbat/
 ├── warmup-1/
 ├── warmup-2/
 ├── logic-1/
+└── ...
+basic-python-builds/
+├── GWA-Checker/
+├── two-value-calculator/
+└── ...
+HackerRank/
+├── leap_year/
 └── ...
 
 ## Platforms

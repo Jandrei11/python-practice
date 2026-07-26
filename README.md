@@ -1,5 +1,5 @@
-# practice probs + basic builds q for py is thon
- well uhm madadali lang sha pero lamnyoyon.. AT HINDI TO AI ASSISTED (except don sa isa ata at ito,, itong description ay AI made except dito sa cnasbi k ngaun)
+# practice problems and basic builds for my very very first start with python
+ well.. basic .py stuffs but things i've created that are not vibe-coded and AI assisted
 
 ## Repository Structure
 ```text
